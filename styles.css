@@ -771,7 +771,7 @@ body {
 }
 
 #lightbox-image {
-    width: 750px;
+    width: 650px;
     max-width: 100%;
     height: auto;
     object-fit: contain;
